@@ -1,0 +1,32 @@
+[
+  {
+    "row": 2,
+    "exception_id": "CPX-88213",
+    "field": "event_ts",
+    "issue": "Source timezone unspecified; local clock time retained, not converted to UTC"
+  },
+  {
+    "row": 3,
+    "exception_id": "CPX-88214",
+    "field": "event_ts",
+    "issue": "Source timezone unspecified; local clock time retained, not converted to UTC"
+  },
+  {
+    "row": 5,
+    "exception_id": "CPX-88216",
+    "field": "carrier_code",
+    "issue": "Carrier code missing; requires source correction"
+  },
+  {
+    "row": 5,
+    "exception_id": "CPX-88216",
+    "field": "event_ts",
+    "issue": "Source timezone unspecified; local clock time retained, not converted to UTC"
+  },
+  {
+    "row": 6,
+    "exception_id": "CPX-88217",
+    "field": "event_ts",
+    "issue": "Source timezone unspecified; local clock time retained, not converted to UTC"
+  }
+]
